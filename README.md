@@ -38,17 +38,17 @@ These notifications come 1 minute past every odd hour that contains details of h
 		   , type: 1
 		   , units: 'kwhr'
 		   , data: [ { sensor: 0
-			    , h024: '01.1'
-			    , h022: '000.9'
-			    , h020: '000.3'
-			    , h018: '000.4'
+			    , h024: 1.1
+			    , h022: 0.9
+			    , h020: 0.3
+			    , h018: 0.4
 			    }
 			    , { sensor: 1
 			    , units: 'kwhr'
-			    , h024: '000.0'
-			    , h022: '000.0'
-			    , h020: '000.0'
-			    , h018: '000.0'
+			    , h024: 0
+			    , h022: 0
+			    , h020: 0
+			    , h018: 0
 			    }
 			  ]
 		   }
